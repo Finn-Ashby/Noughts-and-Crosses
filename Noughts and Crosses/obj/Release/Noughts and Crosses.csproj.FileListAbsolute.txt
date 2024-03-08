@@ -1,0 +1,18 @@
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\bin\Release\Naughts and Crosses.exe.config
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\bin\Release\Naughts and Crosses.exe
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\bin\Release\Naughts and Crosses.pdb
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Leaderboad.g.cs
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\MainWindow.g.cs
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Settings.g.cs
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\App.g.cs
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Naughts and Crosses_MarkupCompile.cache
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Naughts and Crosses_MarkupCompile.lref
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Leaderboad.baml
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\MainWindow.baml
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Settings.baml
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Naughts and Crosses.g.resources
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Naughts_and_Crosses.Properties.Resources.resources
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Noughts and Crosses.csproj.GenerateResource.cache
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Noughts and Crosses.csproj.CoreCompileInputs.cache
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Naughts and Crosses.exe
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Release\Naughts and Crosses.pdb

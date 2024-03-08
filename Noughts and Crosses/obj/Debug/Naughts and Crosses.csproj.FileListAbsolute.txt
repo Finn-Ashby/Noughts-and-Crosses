@@ -1,0 +1,17 @@
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts and Crosses.csprojAssemblyReference.cache
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\MainWindow.g.cs
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\App.g.cs
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts and Crosses_MarkupCompile.cache
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts and Crosses_MarkupCompile.lref
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\bin\Debug\Naughts and Crosses.exe.config
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\bin\Debug\Naughts and Crosses.exe
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\bin\Debug\Naughts and Crosses.pdb
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\MainWindow.baml
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts and Crosses.g.resources
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts_and_Crosses.Properties.Resources.resources
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts and Crosses.csproj.GenerateResource.cache
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts and Crosses.csproj.CoreCompileInputs.cache
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts and Crosses.exe
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Naughts and Crosses.pdb
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Settings.g.cs
+C:\Users\finni\source\repos\Naughts and Crosses\Naughts and Crosses\obj\Debug\Settings.baml
